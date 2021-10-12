@@ -26,7 +26,7 @@ public class Wallpaper {
     // 请求API地址
     private static final String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1618537156988&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160";
     // 最近7天
-    private static final String BING_7DAYS_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=%d&n=1&nc=1618537156988&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160";
+    private static final String BING_7DAYS_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=%d&n=1&nc=1609430400987&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160";
     // 图片访问地址
     private static final String BING_URL = "https://cn.bing.com%s";
 
