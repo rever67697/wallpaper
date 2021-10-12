@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: 0-59 * * * * 
+    - cron: 0 0 * * * 
   workflow_dispatch:
 
 jobs:
@@ -30,8 +30,8 @@ jobs:
         run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
       - name: Commit files
         run: |
-          git config --local user.email "sxyx2008@163.com"
-          git config --local user.name "github-actions"
+          git config --local user.email "rever207@gmail.com"
+          git config --local user.name "rever"
           git add README.md
           git add bing-wallpaper.md
           git commit -m "Update README.md & bing-wallpaper.md"
