@@ -97,6 +97,7 @@ public class Wallpaper {
                 imageList.add(image);
             }
         });
+        last7Days(imageList);
         return imageList;
     }
 
