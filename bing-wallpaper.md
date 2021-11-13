@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2021-11-13 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.BeaversBend_EN-US8963318493_UHD.jpg)
+
 2021-11-12 | [Sailors on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](https://cn.bing.com/th?id=OHR.Veterans2021_EN-US8913164564_UHD.jpg)
 
 2021-11-11 | [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](https://cn.bing.com/th?id=OHR.CumberlandSeashore_EN-US8862017440_UHD.jpg)
@@ -73,4 +75,6 @@
 2021-10-08 | [Huay Mae Khamin Waterfall in Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)](https://cn.bing.com/th?id=OHR.HuayMaeKhamin_EN-US1949606808_UHD.jpg)
 
 2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://cn.bing.com/th?id=OHR.SWColorado_EN-US1870553135_UHD.jpg)
+
+2021-11-12 | [Service members on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](https://cn.bing.com/th?id=OHR.Veterans2021_EN-US8913164564_UHD.jpg)
 
