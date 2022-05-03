@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-05-03 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg)
+
 2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg)
 
 2022-05-01 | [The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco (© Kosso/Getty Images)](https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg)
@@ -417,4 +419,6 @@
 2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://cn.bing.com/th?id=OHR.SWColorado_EN-US1870553135_UHD.jpg)
 
 2021-11-12 | [Service members on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](https://cn.bing.com/th?id=OHR.Veterans2021_EN-US8913164564_UHD.jpg)
+
+2022-05-02 | [Dancers on a hula pa'a on the site of a lele (altar) on the island of Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg)
 
