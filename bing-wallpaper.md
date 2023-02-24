@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg)
+
 2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg)
 
 2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg)
@@ -1013,4 +1015,6 @@
 2021-11-12 | [Service members on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](https://cn.bing.com/th?id=OHR.Veterans2021_EN-US8913164564_UHD.jpg)
 
 2022-05-02 | [Dancers on a hula pa'a on the site of a lele (altar) on the island of Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg)
+
+2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US1003373004_UHD.jpg)
 
