@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-04-21 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)
+
 2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)
 
 2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg)
@@ -1125,4 +1127,6 @@
 2022-05-02 | [Dancers on a hula pa'a on the site of a lele (altar) on the island of Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg)
 
 2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US1003373004_UHD.jpg)
+
+2023-04-20 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)
 
