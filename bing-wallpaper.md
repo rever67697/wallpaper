@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-10-14 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg)
+
 2023-10-13 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
 
 2023-10-12 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg)
@@ -1479,4 +1481,6 @@
 2023-04-20 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)
 
 2023-07-26 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg)
+
+2023-10-13 | [Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
 
