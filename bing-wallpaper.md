@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-06-18 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg)
+
 2024-06-17 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)
 
 2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
@@ -1977,4 +1979,8 @@
 2023-07-26 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg)
 
 2023-10-13 | [Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
+
+2024-06-14 | [Mosaic façade in the Registan, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg)
+
+2024-06-12 | [Gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg)
 
