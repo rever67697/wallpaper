@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-02-12 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg)
+
 2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)
 
 2025-02-09 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)
@@ -2461,4 +2463,6 @@
 2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg)
 
 2025-01-14 | [Cottage with Tŵr Bach Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg)
+
+2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)
 
