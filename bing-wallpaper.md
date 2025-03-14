@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-03-14 | [Holi celebration in Jaipur, India (© powerofforever/Getty Images)](https://cn.bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg)
+
 2025-03-12 | [Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](https://cn.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg)
 
 2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](https://cn.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg)
@@ -2521,4 +2523,6 @@
 2025-01-14 | [Cottage with Tŵr Bach Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg)
 
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)
+
+2025-03-13 | [Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg)
 
