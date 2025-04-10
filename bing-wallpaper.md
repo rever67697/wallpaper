@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-04-10 | [Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg)
+
 2025-04-09 | [Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg)
 
 2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg)
@@ -2577,4 +2579,18 @@
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)
 
 2025-03-13 | [Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg)
+
+2025-04-09 | [Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg)
+
+2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg)
+
+2025-04-07 | [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg)
+
+2025-04-06 | [Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_UHD.jpg)
+
+2025-04-05 | [The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US7897872936_UHD.jpg)
+
+2025-04-04 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US0296037572_UHD.jpg)
+
+2025-04-03 | [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US0210675034_UHD.jpg)
 
