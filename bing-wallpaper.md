@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-01-02 | [Arctic fox sleeping (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)
+
 2025-12-31 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg)
 
 2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg)
@@ -3123,4 +3125,6 @@
 2025-04-04 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US0296037572_UHD.jpg)
 
 2025-04-03 | [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US0210675034_UHD.jpg)
+
+2026-01-01 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg)
 
