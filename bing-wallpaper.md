@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-25 | [Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg)
+
 2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg)
 
 2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg)
@@ -3657,4 +3659,18 @@
 2026-03-14 | [Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg)
 
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg)
+
+2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg)
+
+2026-09-23 | [Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg)
+
+2026-09-22 | [Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_UHD.jpg)
+
+2026-09-21 | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg)
+
+2026-09-20 | [Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg)
+
+2026-09-19 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg)
+
+2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg)
 
