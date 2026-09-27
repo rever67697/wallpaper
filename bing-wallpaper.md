@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-27 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg)
+
 2026-09-26 | [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg)
 
 2026-09-25 | [Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg)
