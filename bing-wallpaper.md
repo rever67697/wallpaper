@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg)
+
 2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)
 
 2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)
@@ -3701,4 +3703,18 @@
 2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg)
 
 2026-09-25 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg)
+
+2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg)
+
+2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://cn.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg)
+
+2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](https://cn.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg)
+
+2026-10-05 | [Château de Castelnaud overlooking the river Dordogne, France (© garethkirklandphotogrphy/Getty Images)](https://cn.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_UHD.jpg)
+
+2026-10-04 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrizzlySwim_ROW2767752337_UHD.jpg)
+
+2026-10-03 | [Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ROW2393025936_UHD.jpg)
+
+2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg)
 
