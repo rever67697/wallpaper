@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg)
+
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg)
 
 2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)
@@ -3717,4 +3719,6 @@
 2026-10-03 | [Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_ROW2393025936_UHD.jpg)
 
 2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg)
+
+2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg)
 
