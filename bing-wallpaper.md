@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.NaejangsanNP_ROW0481262720_UHD.jpg)
+
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg)
 
 2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg)
@@ -3745,4 +3747,18 @@
 2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg)
 
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg)
+
+2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://cn.bing.com/th?id=OHR.VietnamBridge_ROW0147548772_UHD.jpg)
+
+2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg)
+
+2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_UHD.jpg)
+
+2026-10-19 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg)
+
+2026-10-18 | [Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)](https://cn.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg)
+
+2026-10-17 | [Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg)
+
+2026-10-16 | [Horseshoe Falls illuminated at night in Niagara Falls, Ontario, Canada (© Jianmei Wang/Getty Images)](https://cn.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg)
 
